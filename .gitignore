@@ -3,6 +3,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=reactnative,react,node
 
 ### Node ###
+package-lock.json
+yarn.lock
 # Logs
 logs
 *.log
